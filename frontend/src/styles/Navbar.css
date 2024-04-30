@@ -1,0 +1,12 @@
+.nav-user-list-li{
+    display:inline;
+    margin-right: 10px;
+    
+}
+.nav-user-list-ul{
+    margin: 0;
+    padding: 0;
+}
+.nav-user-list-logout{
+    display:inline;
+}
